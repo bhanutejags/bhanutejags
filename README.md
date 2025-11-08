@@ -25,7 +25,7 @@ Software Engineer and Technical Lead with 6+ years building large-scale distribu
 ### 🚀 What I've Built
 
 - **MLOps Framework** - Designed and built framework integrating SageMaker, S3, and DynamoDB into EMR-based orchestration, enabling engineering/data science teams to automate model training and deployment, saving 100+ engineering hours monthly
-- **ML Product Features** - Led team to operationalize Applied Scientist models via RESTful APIs, powering seasonal insights across 10K+ advertising accounts representing $60M+ in planned spend
+- **ML Product Features** - Led team to operationalize Science models via RESTful APIs, powering seasonal insights across 10K+ advertising accounts representing $60M+ in planned spend
 - **Data Infrastructure** - Led engineering for product category recommendations processing 100s of TB of ASIN data, reducing plan creation time by 3-4 minutes across 10K+ yearly media plans
 - **Cost Optimization** - Developed reusable ECR/S3 lifecycle management libraries reducing infrastructure costs by $600K annually, adopted across multiple teams
 - **Platform Migration** - Designed Ansible-based deployment automation enabling 200+ enterprise customers to migrate to SaaS model, reducing deployment time by 85%
