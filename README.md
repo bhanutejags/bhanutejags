@@ -2,6 +2,8 @@
 
 Software Engineer and Technical Lead with 6+ years building large-scale distributed systems and MLOps frameworks at Amazon Ads and Blue Yonder. Experience leading engineering teams and partnering with Data Scientists, Product, and UX to ship high-impact products.
 
+I believe everyone has something valuable to teach, and I'm always eager to learn from the unique perspectives and expertise of those around me.
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
