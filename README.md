@@ -1,6 +1,6 @@
 ## Hi, I'm Bhanu 👋
 
-Software Engineer and Technical Lead with 7+ years building large-scale distributed systems and MLOps frameworks at Amazon Ads and Blue Yonder. Experience leading engineering teams and partnering with Data Scientists, Product, and UX to ship high-impact products.
+Software Engineer and Technical Lead with 7+ years building large-scale distributed systems and MLOps frameworks at Amazon and Blue Yonder. Experience leading engineering teams and partnering with Data Scientists, Product, and UX to ship high-impact products.
 
 I believe everyone has something valuable to teach, and I'm always eager to learn from the unique perspectives and expertise of those around me.
 
